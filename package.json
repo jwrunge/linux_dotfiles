@@ -1,0 +1,11 @@
+{
+  "name": "linux_setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "copyfiles.js",
+  "scripts": {
+    "copy": "node copyfiles.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
