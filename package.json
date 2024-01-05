@@ -4,7 +4,7 @@
   "description": "",
   "main": "copyfiles.js",
   "scripts": {
-    "copyout": "yes | cp -rf ./config ~/.config",
+    "copyout": "yes | cp -rf ./config/* ~/.config",
     "copyin": "./copyin.sh" 
   },
   "author": "Jacob Runge",
