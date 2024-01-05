@@ -203,7 +203,7 @@ bar {
 #Styling
 exec_always nitrogen --restore
 exec --no-startup-id /usr/lib/gsd-xsettings
-exec_always --no-startup-id picom -b --config ~/.config/picom/picom.conf
+exec_always --no-startup-id picom -b --config ~/.config/picom.conf
 
 #Initialization
 exec --no-startup-id i3-msg 'workspace1:term; exec terminator'

@@ -1,8 +1,14 @@
 [global_config]
+  inactive_color_offset = 1.0
 [keybindings]
 [profiles]
   [[default]]
+    icon_bell = False
+    background_darkness = 0.6
     background_type = transparent
+    cursor_shape = underline
+    foreground_color = "#ffffff"
+    show_titlebar = False
 [layouts]
   [[default]]
     [[[window0]]]

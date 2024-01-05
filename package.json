@@ -4,8 +4,9 @@
   "description": "",
   "main": "copyfiles.js",
   "scripts": {
-    "copy": "node copyfiles.js"
+    "copyout": "yes | cp -rf ./config ~/.config",
+    "copyin": "./copyin.sh" 
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Jacob Runge",
+  "license": "MIT"
 }

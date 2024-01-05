@@ -1,0 +1,5 @@
+.config/picom.conf
+.config/i3
+.config/nitrogen
+.config/nvim
+.config/terminator
